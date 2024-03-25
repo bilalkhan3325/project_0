@@ -1,0 +1,25 @@
+h1{
+    border: 1.3px solid #513e2b;
+background-color: #d4a5a5;
+text-align: center;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 60pt;
+}
+nav{
+    inline-size: 50;
+    text-align: right;
+    font-size: 18pt;
+}
+div{
+    
+    border: 1.2px solid #000000;
+}
+#STORY{
+    text-align: left;
+    font-size: 30pt;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#ttt{
+    border: 1.3px solid #3e362f;
+}
